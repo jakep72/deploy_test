@@ -7,7 +7,7 @@ packages = ["src/deploy_test"]
 
 [project]
 name = "deploy_test_jdp72"
-version = "1.0.7"
+version = "1.0.8"
 authors = [
   { name="Jacob Peterson", email="jdpeterson072@gmail.com" },
 ]
