@@ -1,0 +1,6 @@
+site_name: deploy_test
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: material
